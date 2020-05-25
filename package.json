@@ -1,0 +1,34 @@
+{
+  "name": "fp-ts-koans",
+  "version": "0.0.1",
+  "description": "A series of failing tests which if fixed will teach how to use the library fp-ts.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nigel-gott/fp-ts-koans.git"
+  },
+  "keywords": [
+    "typescript",
+    "fp-ts",
+    "functional",
+    "koans"
+  ],
+  "author": "Nigel Gott (nigel.gott@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nigel-gott/fp-ts-koans/issues"
+  },
+  "homepage": "https://github.com/nigel-gott/fp-ts-koans#readme",
+  "devDependencies": {
+    "@types/jest": "^25.2.1",
+    "jest": "^26.0.1",
+    "ts-jest": "^25.5.1",
+    "typescript": "^3.8.3"
+  },
+  "dependencies": {
+    "fp-ts": "^2.6.0"
+  }
+}
